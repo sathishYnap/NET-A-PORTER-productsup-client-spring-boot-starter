@@ -80,7 +80,7 @@ publishing {
                     developer {
                         id = 'shinusuresh'
                         name = 'Shinu Suresh'
-                        email = 'sathishkumar.karunanithi.external@ynap.com'
+                        email = 'shinu.suresh@ynap.com'
                     }
                 }
                 scm {
