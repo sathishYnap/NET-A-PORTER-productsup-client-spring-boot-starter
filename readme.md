@@ -14,7 +14,7 @@ The library is published on Maven Central. To add the library into your spring p
 
 ```
 <dependency>
-  <groupId>io.github.net-a-porter</groupId>
+  <groupId>io.github.sathishynap</groupId>
   <artifactId>NET-A-PORTER-productsup-client-spring-boot-starter</artifactId>
   <version>1.1.0</version>
 </dependency>
@@ -23,7 +23,7 @@ The library is published on Maven Central. To add the library into your spring p
 ### Gradle
 
 ```
-implementation 'io.github.net-a-porter:NET-A-PORTER-productsup-client-spring-boot-starter:1.1.0' 
+implementation 'io.github.sathishynap:NET-A-PORTER-productsup-client-spring-boot-starter:1.1.0' 
 ```
 
 ## How to use
